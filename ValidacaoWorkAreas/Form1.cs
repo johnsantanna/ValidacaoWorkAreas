@@ -9,7 +9,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using ClosedXML.Excel;
-using ValidacaoWorkAreas.Classes;
+using ValidacaoWorkAreas.Classes; 
 
 namespace ValidacaoWorkAreas
 {
